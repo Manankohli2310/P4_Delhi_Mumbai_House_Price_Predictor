@@ -7,7 +7,7 @@ An intelligent Machine Learning web application that predicts house prices for *
 # 🌐 Live Demo
 
 🚀 Streamlit App:  
-[YOUR_STREAMLIT_LINK](https://p4delhimumbaihousepricepredictor.streamlit.app/)
+[STREAMLIT_LINK](https://p4delhimumbaihousepricepredictor.streamlit.app/)
 
 🎥 YouTube Demo:  
 YOUR_YOUTUBE_LINK
@@ -115,7 +115,7 @@ The model explains approximately **81% variance** in housing prices.
 # 📁 Project Structure
 
 ```bash
-metro_house_predictor/
+Delhi_Mumbai_House_Price_Predictor/
 │
 ├── app.py
 ├── requirements.txt
