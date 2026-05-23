@@ -6,7 +6,7 @@ import joblib
 # PAGE CONFIG
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="Delhi Mumbai House Predictor",
+    page_title="Delhi Mumbai House Price Predictor",
     page_icon="🏠",
     layout="wide"
 )
