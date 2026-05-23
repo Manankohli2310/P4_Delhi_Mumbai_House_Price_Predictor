@@ -107,7 +107,7 @@ The model explains approximately **81% variance** in housing prices.
 # 🖥️ Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard_preview.png" width="100%">
+  <img src="dashboard_preview.png" width="100%">
 </p>
 
 ---
